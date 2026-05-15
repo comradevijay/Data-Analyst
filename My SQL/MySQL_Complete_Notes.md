@@ -157,7 +157,7 @@ VALUES ('Vijay', 22, 'vijay@email.com', 'CSE');
 
 -- Multiple rows
 INSERT INTO students (name, age, branch) VALUES
-('Harani', 21, 'ECE'),
+('Hari', 21, 'ECE'),
 ('Ravi', 23, 'MECH'),
 ('Priya', 22, 'IT');
 
